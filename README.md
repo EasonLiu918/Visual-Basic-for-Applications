@@ -36,12 +36,6 @@ A **Golden Cross** is detected when:
 
 ---
 
-### 📸 Preview
-
-> *(You can paste a screenshot of your Excel interface here)*
-
----
-
 ### 🔧 How to Use
 
 1. Open `HK_stockdata.xlsm` in Excel
@@ -50,7 +44,3 @@ A **Golden Cross** is detected when:
 4. Use the buttons on the right-hand side to interact
 
 ---
-
-### 👨‍💻 Author
-
-[EasonLiu918](https://github.com/EasonLiu918)
